@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2016-01-08 15:04:23
+permalink: /blog/:title
 category: [jekyll]
 tags: [jekyll]
 ---
