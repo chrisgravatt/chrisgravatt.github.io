@@ -2,7 +2,7 @@
 title: techMango
 description: 'a programming and data blog for the novice and veteran alike'
 url: 'https://github.com/chrisgravatt/chrisgravatt.github.io'
-baseurl: '/blog'
+# baseurl: '/blog'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
