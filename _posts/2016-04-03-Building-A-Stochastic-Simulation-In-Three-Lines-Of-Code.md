@@ -2,6 +2,7 @@
 layout: post
 title: "Building a Stochastic Simulation in Three Lines of Code"
 date: 2016-04-03
+permalink: /:title
 categories: [jekyll]
 tags: [jekyll]
 ---
