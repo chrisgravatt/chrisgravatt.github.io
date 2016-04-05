@@ -3,7 +3,7 @@ layout: post
 title: "Building a Stochastic Simulation in Three Lines of Code"
 date: 2016-04-03
 permalink: /:title
-category: [novice]
+categories: [jekyll]
 ---
 
 Today, you are going to be awesome. You are going to program a stochastic simulation from scratch using a programming language called Python. This is intended for the total noob, someone who has little to no experience with programming languages, or even computers in general. If you have programming experience, leave now while you still can. 
