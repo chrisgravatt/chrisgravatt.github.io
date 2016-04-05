@@ -9,10 +9,11 @@ url: 'https://github.com/chrisgravatt/chrisgravatt.github.io'
 author:
   name: 'Chris Gravatt'
   email: chrisgravatt@gmail.com
-  twitter_username: ChrisGravatt
+  twitter_username: 
   facebook_username: 
   github_username:  chrisgravatt
-  linkedin_username:  
+  linkedin_username:  christopher-gravatt-64550395
+
 
 defaults:
   -
